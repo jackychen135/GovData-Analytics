@@ -1,2 +1,2 @@
-# GovData-Analytics
-Analysis of different open data sets from data.gov.au
+# GovData Analytics
+Analysis of different open data sets extracted from data.gov.au
